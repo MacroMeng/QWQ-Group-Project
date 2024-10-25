@@ -1,0 +1,33 @@
+name: "Bug报告"
+description: "这玩意儿本身造成的Bug可以在这里报告"
+labels: [有虫子！]
+body:
+- type: textarea
+  id: "yml-2"
+  attributes:
+    label: 原因
+    description: "你到底做了啥子导致错误发生"
+  validations:
+    required: true
+- type: textarea
+  id: "yml-3"
+  attributes:
+    label: 现象
+    description: "这玩意儿到底发了什么疯"
+  validations:
+    required: true
+- type: textarea
+  id: "yml-4"
+  attributes:
+    label: 环境
+    description: "你的电脑的彻底情况（如Windows11专业工作站版24H2）"
+  validations:
+    required: false
+- type: textarea
+  id: "yml-5"
+  attributes:
+    label: 附件
+    description: "你有什么视频/图片/Log来帮助Debug，尽管交出来吧"
+    placeholder: "点进这里，然后把文件喂给GitHub"
+  validations:
+    required: false
