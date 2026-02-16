@@ -1,8 +1,10 @@
 # QWQ-Group-Project
 
+> 为科创社团哀悼🤚😭🤚
+
 ### 这是什么？
 
-QWQ-Group-Project 是一个用于存储 QWQ-Group 培东少科科创团队源代码及项目文件的地方。
+QWQ-Group-Project 是一个用于存储 QWQ-Group 团队源代码及项目文件的地方。
 
 ![QWQ-Group 海报](https://github.com/MacroMeng/QWQ-Group-Project/blob/main/POSTER.png)
 
